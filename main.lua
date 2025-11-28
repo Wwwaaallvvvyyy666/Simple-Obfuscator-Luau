@@ -1,3 +1,12 @@
+--[[
+Free Obfuscator Luau
+© Walvy Triplesixxx 2025
+main.lua
+obfuscator ini hanya untuk mengaburkan saja tidak 100% benar benar aman kalo mau aman buat sendiri
+dengan menyesuaikan kebutuhan atau second option Menggunakan Lura Ph atau Membeli Luarmor Agar Tidak Kena bounty Dengan
+Anak anak yang jago Reverse Engenering #666
+]]
+
 local gui = Instance.new("ScreenGui")
 gui.Name = "TriplesixxxObfuscatorGUI"
 gui.IgnoreGuiInset = true
